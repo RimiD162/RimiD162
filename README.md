@@ -6,7 +6,8 @@
 </h1>
 
 <p align="center">
-  <em>Passionate about building cool things, learning new technologies, and solving real-world problems.</em>
+  <em>💻 Backend Developer | CSE Student at Brainware University
+While the world sees the UI, I see the architecture. I’m a **CSE Undergraduate** focused on writing efficient code in **C**, building smart automation scripts in **Python**, and managing scalable data systems.</em>
 </p>
 
 <p align="center">
