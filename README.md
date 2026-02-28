@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>💻 Backend Developer | CSE Student at Brainware University
-While the world sees the UI, I see the architecture. I’m a **CSE Undergraduate** focused on writing efficient code in **C**, building smart automation scripts in **Python**, and managing scalable data systems.</em>
+</em>
 </p>
 
 <p align="center">
