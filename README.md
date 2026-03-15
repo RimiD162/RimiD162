@@ -42,7 +42,6 @@
 ---
  -->
 
-
 <div align="center">
 
 <!-- ANIMATED HEADER -->
@@ -50,11 +49,12 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%8E%A8+Turning+Designs+into+Reality;%E2%9A%A1+Building+Fast+%26+Beautiful+Web+Apps;%F0%9F%9A%80+React+%7C+Tailwind+%7C+JavaScript+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&repeat=true&width=550&height=45&lines=%F0%9F%8E%A8+Turning+Designs+into+Reality;%E2%9A%A1+Building+Fast+%26+Beautiful+Web+Apps;%F0%9F%9A%80+React+%7C+Tailwind+%7C+JS+Enthusiast" alt="Typing SVG" />
 </a>
 
+<br/><br/>
+
 <!-- PROFILE VIEWS & FOLLOWERS -->
-<br/>
 <img src="https://komarev.com/ghpvc/?username=Rimid162&label=Profile%20Views&color=4ECDC4&style=for-the-badge" alt="Profile Views" />
 <a href="https://github.com/Rimid162?tab=followers">
   <img src="https://img.shields.io/github/followers/Rimid162?label=Followers&style=for-the-badge&color=FF6B6B&labelColor=1a1b27" alt="Followers" />
@@ -237,9 +237,28 @@ const rimiDutta = {
 
 <br/>
 
-<!-- CONTRIBUTION SNAKE -->
+<!-- PROFILE SUMMARY CARDS -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## 📊 Profile Summary
+
+<div align="center">
+
+<a href="https://github.com/Rimid162">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rimid162&theme=github_dark" alt="Profile Details" width="100%" />
+</a>
+
+<a href="https://github.com/Rimid162">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rimid162&theme=github_dark" alt="Repos Per Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rimid162&theme=github_dark" alt="Most Commit Language" width="49%" />
+</a>
+
+<a href="https://github.com/Rimid162">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rimid162&theme=github_dark" alt="Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rimid162&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="49%" />
+</a>
+
+</div>
 
 <br/>
 
@@ -289,6 +308,11 @@ const rimiDutta = {
 
 
 
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer" width="100%" />
+
+<div align="center">
+
 ### ⭐ If you like my work, consider giving a star to my repositories!
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
@@ -300,3 +324,4 @@ const rimiDutta = {
 <i>✨ "First, solve the problem. Then, write the code." – John Johnson ✨</i>
 
 </div>
+
